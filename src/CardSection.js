@@ -4,7 +4,7 @@ const CardSection=()=>(
     <section className="contact bg-success ">
     <div className="container ">
       <h2 className="text-white">
-        We love new friends!
+        We love new friendsssss!
       </h2>
       <div className="row">
         <div className="col-4">
